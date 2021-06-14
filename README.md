@@ -12,3 +12,8 @@ Python script that connects to the [chess.com API](https://www.chess.com/club/ch
 Useful for understanding performance based on openings and responses to openings. 
 
 ![image](https://user-images.githubusercontent.com/12749831/119415465-a8b2d600-bcbf-11eb-9232-881d7e597e60.png)
+
+## Day 27
+Jupyter Notebook example of getting geospatial data using Dublin Bikes location data from (https://data.smartdublin.ie/dataset/dublinbikes-api)
+
+<img width="1044" alt="Screen Shot 2021-06-14 at 11 31 17 AM" src="https://user-images.githubusercontent.com/12749831/121918524-1e7cf100-cd04-11eb-866f-ee91f3a99567.png">
